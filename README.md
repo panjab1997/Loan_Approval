@@ -7,9 +7,6 @@ anybody is interested to avail loan from the bank. This process is rigorous, Tim
 consuming. The bank is now planning to optimize the cost involved in cold-calling. We have
 to analyze the customer’s data to identify potential leads.
 
-## Objective:
-To analyze the data and build a machine learning model that predicts the
-potential clients for personal loan.
 
 ## Features Description
 1 Cust_ID - Unique Customer ID
@@ -56,3 +53,7 @@ potential clients for personal loan.
 levels
 
 22 Approved (Target) - Whether a loan is Approved or not (1-0)
+
+## Objective:
+To analyze the data and build a machine learning model that predicts the
+potential clients for personal loan.
